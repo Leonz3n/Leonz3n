@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### Hi there 👋
+
+![KanonMemphis's github stats](https://github-readme-stats.vercel.app/api?username=KanonMemphis&theme=vue&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanonMemphis&layout=compact&theme=vue)](https://github.com/flamywhale/github-readme-stats)
+
 <!--
 **Leonz3n/Leonz3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
